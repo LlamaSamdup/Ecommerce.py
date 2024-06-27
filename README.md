@@ -21,5 +21,5 @@ This is a simple console-based e-commerce system implemented in Python. The syst
 2. Open a terminal or command prompt and navigate to the directory containing the script.
 3. Run the script using the following command:
     
-    python ecommerce_system.py
+    python ecommerce.py
 
