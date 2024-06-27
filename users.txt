@@ -1,0 +1,4 @@
+{"username": "ram", "password": "ram123", "usertype": "seller"}
+{"username": "hari", "password": "hari123", "usertype": "buyer"}
+{"username": "sam", "password": "sam123", "usertype": "buyer"}
+

@@ -1,0 +1,5 @@
+{"name": "pen", "description": "ball pen", "price": "20"}
+{"name": "cpu", "description": "ryzen 7 5800x", "price": "45000"}
+{"name": "Noodle", "description": "waiwai", "price": "20"}
+{"name": "Phone ", "description": "Iphone 15 ", "price": 120000}
+{"name": "SmartWatch", "description": "Iwatch 7thGen", "price": 65000}

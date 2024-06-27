@@ -1,0 +1,6 @@
+
+{"buyer": "sam", "product": "pen", "quantity": 5, "total": 100.0}
+{"buyer": "sam", "product": "Noodle", "quantity": 4, "total": 80}
+{"buyer": "sam", "product": "Phone ", "quantity": 2, "total": 240000}
+{"buyer": "hari", "product": "cpu", "quantity": 2, "total": 90000}
+{"buyer": "hari", "product": "pen", "quantity": 5, "total": 100}
